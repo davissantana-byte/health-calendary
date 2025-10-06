@@ -1,3 +1,7 @@
 p {
     font-size: large;
 }
+
+.nome {
+    border: 2;
+}
